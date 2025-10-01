@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: Webform Development (Dragon) — Script Actions
+message: Please cite this software if you use it.
+type: software
+authors:
+  - family-names: Decker
+    given-names: Brandon
+repository-code: https://github.com/your-org-or-user/dragon-script-actions
+license: Apache-2.0
+version: 1.0.0
+date-released: 2025-09-04
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Decker
+      given-names: Brandon
+  title: Webform Development (Dragon) — Script Actions
+  year: 2025
+  url: https://github.com/your-org-or-user/dragon-script-actions
